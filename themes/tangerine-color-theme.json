@@ -680,9 +680,11 @@
         "editorSuggestWidget.highlightForeground":"#85ffc7",
         "editorSuggestWidget.foreground":"#c1c1c1",
         "editorSuggestWidget.selectedBackground":"#6c6c6d",
+        "editorSuggestWidget.selectedForeground":"#c1c1c1",
+        "editorSuggestWidget.focusHighlightForeground": "#85ffc7",
         "editorWidget.background":"#525254",
         "editorWidget.border":"#6c6c6d",
-        
+
         // Editor: Gutter
         "editorGutter.background":"#343435",
         "editorGutter.modifiedBackground":"#f7b83d",
