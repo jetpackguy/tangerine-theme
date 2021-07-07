@@ -4,7 +4,7 @@
     "displayName": "Tangerine Theme",
     "description": "A VSCode theme based on Tickle(rainglow)",
     "icon": "assets/icon.png",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "engines": {
         "vscode": "^1.14.0"
     },
@@ -25,11 +25,11 @@
         ]
     },
     "keywords": [
-		"Vscode",
-		"Theme",
-		"dark",
-		"tangerine",
-		"tickle"
-	],
-    "homepage":"https://github.com/jetpackguy/tangerine-theme/blob/master/README.md"
+        "Vscode",
+        "Theme",
+        "dark",
+        "tangerine",
+        "tickle"
+    ],
+    "homepage": "https://github.com/jetpackguy/tangerine-theme/blob/master/README.md"
 }
