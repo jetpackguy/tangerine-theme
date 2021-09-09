@@ -731,6 +731,9 @@
         "list.activeSelectionForeground":"#39393a",
         "list.inactiveSelectionBackground":"#39393a",
         "list.focusBackground":"#5f5f61",
+        "list.focusHighlightForeground": "#85ffc7",
+        "list.highlightForeground": "#85ffc7",
+        "quickInputList.focusForeground": "#f1f1f1",
         
         // Workbench: Misc
         "progressBar.background":"#ff8552",
